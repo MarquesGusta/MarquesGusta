@@ -48,8 +48,7 @@ Construir uma carreira sólida em **Data Analytics**, evoluindo para posições 
 ## 📫 Contato
 
 📧 Email: [marquuesgustavo@email.com](mailto:marquuesgustavo@email.com)
-💼 LinkedIn: [www.linkedin.com/in/gustavo-marques-07b563251](https://www.linkedin.com/in/gustavo-marques-07b563251/)
-
+💼 LinkedIn: <a href="www.linkedin.com/in/gustavo-marques-07b563251" target="_blank">www.linkedin.com/in/gustavo-marques-07b563251</a>
 ---
 
 ⭐ *Sempre aberto a conexões, oportunidades e troca de conhecimento!*
