@@ -1,10 +1,55 @@
-- 👋 Olá, e sou @MarquesGusta.
-- 👀 Sou um adolescente que se encantou por programação, então comecei a aprender para que, futuramente, possa trabalhar nesse ramo.
-- 🌱 Até o momento aprendi o básico de JavaScript, HTML5 E CSS3. Mas ainda pretendo aprender mais linguagens de programação.
-- 💞️ Quero fazer parte de um time de devs e que possa ajudar a criar softwares que sejam muito úteis para o consumidor final. Sempre visando o trabalho em equipe pois sei que é essencial.
-- 📫 Atualmente so tenho o GitHub como rede social alternativa( que não seja WhattsApp).
+# 👋 Olá, eu sou o Gustavo Marques
 
-<!---
-MarquesGusta/MarquesGusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Estudante de Ciência de Dados | Futuro Data/Business Analyst**
+📍 São Paulo, Brasil
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de **Ciência de Dados pela FATEC** com formação técnica em **Desenvolvimento de Sistemas pelo SENAI**. Tenho grande interesse em transformar dados em insights estratégicos que apoiem decisões de negócio.
+
+Busco minha primeira oportunidade de estágio como **Data Analyst ou Business Analyst**, onde eu possa aplicar minhas habilidades analíticas e evoluir profissionalmente em um ambiente orientado a dados.
+
+---
+
+## 💡 Principais competências
+
+* 📊 Análise de Dados (Exploratória e Descritiva)
+* 🧠 Pensamento Analítico e Resolução de Problemas
+* 🏗️ Modelagem de Dados e Data Warehouse
+* 📈 Visualização de Dados e Storytelling
+* 🤖 Lógica de Programação e Automação
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**
+Python | JavaScript
+
+**Dados & BI:**
+Power BI | Excel | Pandas | NumPy | R
+
+**Banco de Dados:**
+SQL | NoSQL
+
+**Outros:**
+Git | GitHub
+
+---
+
+## 🎯 Objetivo de Carreira
+
+Construir uma carreira sólida em **Data Analytics**, evoluindo para posições estratégicas onde eu possa gerar impacto real no negócio através de dados.
+
+---
+
+## 📫 Contato
+
+📧 Email: [marquuesgustavo@email.com](mailto:marquuesgustavo@email.com)
+💼 LinkedIn: [https://www.linkedin.com/in/gustavo-marques-07b563251/]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/gustavo-marques-07b563251/))
+
+---
+
+⭐ *Sempre aberto a conexões, oportunidades e troca de conhecimento!*
